@@ -35,6 +35,11 @@ end
 
 lunch
 
+def dinner (food="steak")
+  puts "Tonight is #{food}"
+end
+
+dinner
 
 
 

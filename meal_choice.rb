@@ -29,6 +29,12 @@ end
 
 breakfast
 
+def lunch (food="sandwhichs")
+  puts "We are having #{food} at noon"
+end
+
+lunch
+
 
 
 
